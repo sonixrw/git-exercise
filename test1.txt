@@ -1,1 +1,3 @@
 Remove "Initial Lines"
+Modify file in commited area
+Add new lines 
