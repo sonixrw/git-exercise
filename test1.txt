@@ -1,1 +1,2 @@
-Modify file in stagged area
+Modify file in commited area
+Add new lines 
