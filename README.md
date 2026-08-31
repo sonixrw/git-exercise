@@ -1,3 +1,3 @@
 # git-exercise
 
-For Learning GIT and GITHUB
+For Learning GIT
